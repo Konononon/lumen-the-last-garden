@@ -1,0 +1,24 @@
+{
+  "creator": "Original assets authored for LUMEN",
+  "models": [
+    "silverwood",
+    "blossom",
+    "cypress",
+    "rock",
+    "grass",
+    "fern",
+    "flower",
+    "mushroom",
+    "column",
+    "lantern",
+    "bell",
+    "mirror",
+    "pedestal",
+    "well",
+    "gate",
+    "traveller",
+    "keeper"
+  ],
+  "source": "scripts/create-models.mjs",
+  "audioSource": "scripts/create-audio.py"
+}
